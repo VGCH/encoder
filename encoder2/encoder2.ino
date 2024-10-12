@@ -19,7 +19,7 @@ BLECharacteristic *pCharacteristic = NULL;
 
 
 #define encoder0PinA 14                 // Вход А 
-#define encoder0PinB 17                 // Вход B 2
+#define encoder0PinB 2                  // Вход B 
 #define encoder0PinZ 4                  // Вход Z
 #define st_pin       18                 // Пин сенсора автозмера
 #define LED_ST       12                 // Пин светодиода
